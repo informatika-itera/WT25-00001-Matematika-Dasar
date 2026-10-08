@@ -30,7 +30,7 @@ Setiap pertemuan menurunkan CPMK menjadi dua Sub-CPMK yang tertulis di slide per
 
 ## Desain Pembelajaran
 
-Bahan di repo ini disusun dengan satu pertanyaan di setiap langkah: kegiatan ini membantu mahasiswa belajar apa, dan bagaimana kita tahu mereka sudah bisa. Jawabannya diwujudkan lewat tujuh prinsip berikut. Setiap prinsip muncul dengan nama yang sama di slide, catatan pengajar, modul, dan lembar latihan.
+Bahan di repo ini disusun dengan satu pertanyaan di setiap langkah: kegiatan ini membantu mahasiswa belajar apa, dan bagaimana kita tahu mereka sudah bisa. Jawabannya diwujudkan lewat tujuh prinsip berikut. Setiap prinsip muncul dengan nama yang sama di slide, catatan pembicara PPTX, modul, dan lembar latihan.
 
 | Prinsip | Wujudnya di kelas | Rujukan |
 |---|---|---|
@@ -46,7 +46,7 @@ Dua kebiasaan menempel di semua prinsip itu. Pertama, setiap langkah perhitungan
 
 ### Pertanyaan engsel
 
-Pertanyaan engsel adalah soal pilihan ganda yang dijawab serentak dengan jari. Setiap pilihan salah dirancang mewakili satu miskonsepsi yang sudah diketahui, misalnya $\frac{22}{7}$ dianggap sama dengan $\pi$, atau $(a+b)^2$ dianggap sama dengan $a^2+b^2$. Pola jari di kelas langsung menunjukkan miskonsepsi mana yang dominan, sehingga pengajar bisa memutuskan saat itu juga apakah perlu mengulang. Kunci dan arti setiap pilihan ada di catatan pengajar.
+Pertanyaan engsel adalah soal pilihan ganda yang dijawab serentak dengan jari. Setiap pilihan salah dirancang mewakili satu miskonsepsi yang sudah diketahui, misalnya $\frac{22}{7}$ dianggap sama dengan $\pi$, atau $(a+b)^2$ dianggap sama dengan $a^2+b^2$. Pola jari di kelas langsung menunjukkan miskonsepsi mana yang dominan, sehingga pengajar bisa memutuskan saat itu juga apakah perlu mengulang. Kunci dan arti setiap pilihan ada di catatan pembicara PPTX, tidak di PDF.
 
 ## Siklus Setiap Pertemuan
 
@@ -133,7 +133,7 @@ Angka pribadi dipakai di tugas, latihan, dan exit ticket. $A$ adalah digit terak
 | `P15 Review Pertemuan 9 sampai 14 dan Kuis Wajib.pdf` | 15 |
 | `P16 Ujian Akhir Semester.pdf` | 16 |
 
-Slide memakai sistem desain ITERA Slides (Beamer, warna emas dan hitam ITERA) dan bersifat interaktif: langkah, petak gambar, dan jawaban muncul satu per satu saat slide dimajukan, sehingga kelas sempat menebak sebelum setiap langkah dibuka. Setiap frame punya catatan pengajar berisi waktu, tujuan kegiatan, kunci, dan miskonsepsi yang perlu dicari. Versi slide dengan catatan pengajar (`- Catatan Pengajar.pdf`) dipegang tim pengajar dan di-gitignore.
+Slide memakai sistem desain ITERA Slides dan tersedia dalam dua bentuk. PDF di folder ini memuat satu halaman per slide dalam keadaan lengkap, 13 sampai 40 halaman per pertemuan, untuk dibaca atau dicetak. Versi PowerPoint (.pptx) dibagikan terpisah untuk mengajar: langkah, kolom koran, dan jawaban muncul satu per satu dengan klik hanya saat presentasi, dan catatan pengajar (waktu, tujuan kegiatan, kunci, miskonsepsi) hanya ada di catatan pembicara PPTX, tidak di PDF. Slide yang memuat gambar TikZ dipasang sebagai gambar bertahap yang juga muncul per klik.
 
 ### 02 Latihan
 
@@ -185,7 +185,7 @@ Biggs, J. (1996). Enhancing teaching through constructive alignment. *Higher Edu
 
 ## Kredit
 
-Tampilan slide dan modul memakai sistem desain ITERA Slides, dengan struktur yang mengikuti template Beamer UGM (mdaniyalk/latex-ugm-presentation-template) dan identitas warna dari logo ITERA. Format repo, yaitu slide, latihan, dan modul per pertemuan.
+Tampilan slide dan modul memakai sistem desain ITERA Slides, dengan struktur yang mengikuti template Beamer UGM (mdaniyalk/latex-ugm-presentation-template) dan identitas warna dari logo ITERA.
 
 ## Penyusunan materi dengan bantuan AI
 
