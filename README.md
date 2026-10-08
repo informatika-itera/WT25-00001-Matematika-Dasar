@@ -46,7 +46,7 @@ Dua kebiasaan menempel di semua prinsip itu. Pertama, setiap langkah perhitungan
 
 ### Pertanyaan engsel
 
-Pertanyaan engsel adalah soal pilihan ganda yang dijawab serentak dengan jari. Setiap pilihan salah dirancang mewakili satu miskonsepsi yang sudah diketahui, misalnya $\frac{22}{7}$ dianggap sama dengan $\pi$, atau $(a+b)^2$ dianggap sama dengan $a^2+b^2$. Pola jari di kelas langsung menunjukkan miskonsepsi mana yang dominan, sehingga pengajar bisa memutuskan saat itu juga apakah perlu mengulang. Kunci dan arti setiap pilihan ada di catatan pembicara PPTX, tidak di PDF.
+Pertanyaan engsel adalah soal pilihan ganda yang dijawab serentak dengan jari. Setiap pilihan salah dirancang mewakili satu miskonsepsi yang sudah diketahui, misalnya $\frac{22}{7}$ dianggap sama dengan $\pi$, atau $(a+b)^2$ dianggap sama dengan $a^2+b^2$. Pola jari di kelas langsung menunjukkan miskonsepsi mana yang dominan, sehingga pengajar bisa memutuskan saat itu juga apakah perlu mengulang.
 
 ## Siklus Setiap Pertemuan
 
